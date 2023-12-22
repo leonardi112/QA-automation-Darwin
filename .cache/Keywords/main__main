@@ -1,10 +1,15 @@
 {
-  "keywordFileContentHash": "DDF5E684EB540F3964E1650D0DF7687D",
+  "keywordFileContentHash": "EE49A3AE5DCDED2A57491C0C07B38928",
   "keywordClasses": [
     {
       "name": "main.main",
-      "keywordMethods": []
+      "keywordMethods": [
+        {
+          "name": "asd",
+          "parameters": []
+        }
+      ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }
